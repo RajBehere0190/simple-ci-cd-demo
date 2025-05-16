@@ -33,3 +33,5 @@ if __name__ == "__main__":
     print("Area of square:", calculate_area("square", {"side": 5}))
     print("Area of circle:", calculate_area("circle", {"radius": 2}))
     print("Area of triangle:", calculate_area("triangle", {"base": 6, "height": 4}))
+
+
