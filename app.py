@@ -35,3 +35,5 @@ if __name__ == "__main__":
     print("Area of triangle:", calculate_area("triangle", {"base": 6, "height": 4}))
 
 
+
+
